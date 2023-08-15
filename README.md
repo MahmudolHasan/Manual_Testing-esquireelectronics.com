@@ -37,4 +37,4 @@ This repository and its contents are solely dedicated to documenting the manual 
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, feel free to reach out to us via [email](tusharahasan182@gmail.com).
+If you have any questions or suggestions regarding this project, feel free to reach out to me via [email](tusharahasan182@gmail.com).
